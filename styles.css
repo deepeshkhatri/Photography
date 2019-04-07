@@ -1,7 +1,7 @@
 /* Header Section */
 
 #header{
-    background-color: #474a56;
+    background-color: #616161;
     color: #fff;
 }
 
@@ -37,7 +37,7 @@
   text-align: center;
   padding: 3% 0;
   color: black;
-  background-color: #929aab;
+  background-color: #8aae92;
 }
 
 .carousel-text{
@@ -62,7 +62,7 @@
 /* Portfolio */
 
 #Portfolio{
-  background-color: #d3d5fd;
+  background-color: #c4e3cb;
   text-align: center;
   padding: 2% 0.5%;
 }
@@ -110,7 +110,7 @@ padding-bottom: 1%;
 
 #footer{
   text-align: center;
-  background-color: #dedffc;
+  background-color: #f4f9f4;
   line-height: 1;
   padding-bottom: 1%;
 }
