@@ -1,7 +1,7 @@
 /* Header Section */
 
 #header{
-    background-color: #616161;
+    background-color: #0b0b0d;
     color: #fff;
 }
 
@@ -37,7 +37,7 @@
   text-align: center;
   padding: 3% 0;
   color: black;
-  background-color: #8aae92;
+  background-color: #474a56;
 }
 
 .carousel-text{
@@ -62,7 +62,7 @@
 /* Portfolio */
 
 #Portfolio{
-  background-color: #c4e3cb;
+  background-color: #929aab;
   text-align: center;
   padding: 2% 0.5%;
 }
@@ -100,7 +100,7 @@ padding-bottom: 1%;
 #contact{
   text-align: left;
   padding: 2%;
-  background-color: #dedffc;
+  background-color: #d3d5fd;
 }
 
 #contact h1, h3{
